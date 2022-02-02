@@ -1,0 +1,16 @@
+{
+  "batch_size": 1,
+  "dataset_root": "PATH_TO_DATASET/FlyingThings3D_subset",
+  "experiment_name": "MONet_ft3d",
+  "flowEst_root": "PATH_TO_ESTIMATED_FLOW",
+  "gpu_device": "0",
+  "init_epoch": 0,
+  "is_train": 1,
+  "learning_rate": 0.0001,
+  "load_weights": "MONet_ft3d/weights-ft3d.hdf5",
+  "num_epochs": 200,
+  "optimizer_type": "adam",
+  "save_preds": false,
+  "sizeH": 448,
+  "sizeV": 256
+}

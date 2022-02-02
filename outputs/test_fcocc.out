@@ -1,0 +1,9 @@
+Evaluating on FlyingChairsOcc dataset...
+Loading 640 image pairs for FlyingChairsOcc dataset.
+Loading Network Weights: MONet_ft3d/weights-ft3d.hdf5
+ 
+Occlusion Estimation:
+   Average precision: 0.8955028963560597
+   Average recall: 0.7746096795990745
+   Average F1: 0.8267079347139269
+

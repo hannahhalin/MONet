@@ -1,0 +1,3 @@
+from . import IRR_PWC_FED_OEE
+
+IRR_PWC_FED_OEE      = IRR_PWC_FED_OEE.PWCNet

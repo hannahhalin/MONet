@@ -1,0 +1,12 @@
+Evaluating on MPI-Sintel dataset...
+Loading 1041 image pairs for MPI-Sintel dataset.
+Loading Network Weights: MONet_ft3d/weights-ft3d.hdf5
+ 
+Occlusion Estimation:
+   Average precision: 0.9009005369265309
+   Average recall: 0.6648773822038836
+   Average F1: 0.7441964103433262
+ 
+Motion Boundary Estimation:
+   Maximum F1: 0.87178
+   Area Under PR curve: 0.93093
